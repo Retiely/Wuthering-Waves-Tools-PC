@@ -1,13 +1,13 @@
 # 鸣潮抽卡记录工具
-### 2.0.7 version 蓝奏网盘地址
+### 2.0.7 version 蓝奏网盘地址 Blue Play Network Disk Address
 ```
 https://wwis.lanzouq.com/iNq1r2nmwsmf
 ```
-### 2.0.7 version gitee地址
+### 2.0.7 version gitee地址  gitee Address
 ```
 https://gitee.com/retires/Wuthering-Waves-PC/releases/tag/2.0.7
 ```
-### 2.0.7 version github地址
+### 2.0.7 version github地址  githu Address
 ```
 https://github.com/Retiely/Wuthering-Waves-Tools-PC/releases/tag/2.0.7
 ```
