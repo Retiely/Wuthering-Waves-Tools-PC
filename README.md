@@ -1,7 +1,15 @@
-# project_wuwavepc
-### 2.0.3 version
+# 鸣潮抽卡记录工具
+### 2.0.7 version 蓝奏网盘地址
 ```
-https://github.com/Retiely/Wuthering-Waves-PC/releases/tag/2.0.3
+https://wwis.lanzouq.com/iNq1r2nmwsmf
+```
+### 2.0.7 version gitee地址
+```
+https://gitee.com/retires/Wuthering-Waves-PC/releases/tag/2.0.7
+```
+### 2.0.7 version github地址
+```
+https://github.com/Retiely/Wuthering-Waves-Tools-PC/releases/tag/2.0.7
 ```
 ## Project setup
 ```
